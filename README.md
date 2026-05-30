@@ -41,3 +41,13 @@ Emergency dentist availability platform.
 - Workflow Automation
 
 Contact: workflowdock@proton.me
+
+
+## Project Highlights
+
+- Real-world production environment
+- Automated bundle generation
+- Container loading optimization
+- Rule-based validation engine
+- Shipment planning workflows
+- Export-oriented logistics support
