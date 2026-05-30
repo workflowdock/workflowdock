@@ -1,16 +1,43 @@
-## Hi there 👋
+# WorkflowDock
 
-<!--
-**workflowdock/workflowdock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+We build practical software for real business operations.
 
-Here are some ideas to get you started:
+## What we do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Workflow Automation
+- Approval Systems
+- Logistics Platforms
+- Property Management
+- Manufacturing Tools
+- Internal Business Dashboards
+
+## Featured Projects
+
+### LoadMaster
+Container loading and bundle optimization platform.
+
+### Nexus
+Approval workflow and customer access system.
+
+### StayFlow
+Property and booking management platform.
+
+### DentNow
+Emergency dentist availability platform.
+
+## Technologies
+
+- PHP
+- MySQL
+- JavaScript
+- REST APIs
+- Cron Automation
+
+## Available for
+
+- Custom Web Applications
+- SaaS Development
+- Internal Business Tools
+- Workflow Automation
+
+Contact: workflowdock@proton.me
