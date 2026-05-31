@@ -40,7 +40,7 @@ Emergency dentist availability platform.
 - Internal Business Tools
 - Workflow Automation
 
-Contact: workflowdock.team@proton.me
+Contact: dev@workflowdock.dev
 
 
 ## Project Highlights
